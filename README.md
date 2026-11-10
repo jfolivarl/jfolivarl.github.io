@@ -12,6 +12,7 @@ Todos los archivos van en la raíz, sin subcarpetas, para poder subirlos de una 
 - `cv-turismo.pdf`, `cv-territorio-sig.pdf` — CV con enlaces a LinkedIn, correo y web
 - `cv-turismo.jpg`, `cv-territorio-sig.jpg` — miniaturas de los CV
 - `favicon.svg`, `apple-touch-icon.png`, `icon-512.png` — iconos del logo JO (`icon-512.png` es la imagen al compartir)
+- `manifest.webmanifest`, `icon-192.png` — permiten instalar la web como app (pantalla de inicio), a pantalla completa
 - `logo.svg` — archivo original del logo (en la página va incrustado para seguir el modo claro/oscuro)
 
 ## Secciones
